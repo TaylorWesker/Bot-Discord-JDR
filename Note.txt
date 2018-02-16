@@ -1,0 +1,4 @@
+Test de competence => 1d20 + mod >= (Degres de Dificulté) ou 1d20 + mod joueur >= 1d20 + mod pnj
+Test de Caractéristique => 1d20 + mod
+Jet d'attaque => 1d20 + bonus attaque >= classe d'armure
+mod = val/2 - 5 arondit inf 
