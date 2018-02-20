@@ -30,7 +30,7 @@ const insulte = [
   "Dans ta gueule",
   "Tu sait pas viser",
   "La prochaine fois, essai plus fort",
-  "lol t'es mort",
+  "LOL t'es mort",
   "Le karma te sodomise"
 ];
 
