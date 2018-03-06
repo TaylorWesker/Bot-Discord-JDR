@@ -1,6 +1,6 @@
 # Bot-Discord-JDR
 
-# Instalation
+# installation
 
 Installer Node.js
 
